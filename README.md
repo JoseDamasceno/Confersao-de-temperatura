@@ -1,2 +1,2 @@
-# Confersao-de-temperatura
+# Conversao-de-temperatura
 converter temperatura de ºF Para Cº
